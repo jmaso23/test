@@ -1,0 +1,2 @@
+# test
+Repositori Joan Maso
