@@ -1,2 +1,1 @@
-# test
-Repositori Joan Maso
+REPOSITORI CREAT PER JOAN MASÓ
